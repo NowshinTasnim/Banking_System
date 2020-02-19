@@ -1,0 +1,1 @@
+void del(int x);

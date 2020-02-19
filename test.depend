@@ -1,0 +1,255 @@
+# depslib dependency file v1.0
+1512453744 source:d:\test\main.c
+	"main.h"
+
+1512459796 source:d:\test\banking.c
+	"global.h"
+
+1512464544 d:\test\main.h
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1512460562 d:\test\structure.h
+
+1512407198 d:\test\close.h
+
+1512407322 d:\test\clear.h
+
+1512407434 d:\test\banking.h
+
+1512407552 d:\test\insert.h
+
+1512407686 d:\test\update.h
+
+1512407882 d:\test\del.h
+
+1512408016 d:\test\view.h
+
+1512408104 d:\test\menu.h
+
+1512408202 d:\test\login.h
+
+1512408336 d:\test\delay.h
+
+1512408414 d:\test\loan.h
+
+1512408508 d:\test\read.h
+
+1512408570 d:\test\write.h
+
+1512408736 d:\test\findloc.h
+
+1512410412 d:\test\strmatch.h
+
+1512458798 source:d:\test\clear.c
+	"global.h"
+
+1512458832 source:d:\test\close.c
+	"global.h"
+
+1512458846 source:d:\test\del.c
+	"global.h"
+
+1512458864 source:d:\test\delay.c
+	"global.h"
+
+1512458872 source:d:\test\findloc.c
+	"global.h"
+
+1512458882 source:d:\test\insert.c
+	"global.h"
+
+1512458894 source:d:\test\loan.c
+	"global.h"
+
+1512463742 source:d:\test\login.c
+	"global.h"
+
+1512458932 source:d:\test\read.c
+	"global.h"
+
+1512458948 source:d:\test\strmatch.c
+	"global.h"
+
+1512458970 source:d:\test\update.c
+	"global.h"
+
+1512458980 source:d:\test\view.c
+	"global.h"
+
+1512459008 source:d:\test\write.c
+	"global.h"
+
+1512465204 source:d:\test\menu.c
+	"global.h"
+
+1512415684 d:\test\view_ind.h
+
+1512415968 d:\test\show_ind.h
+
+1512416052 d:\test\check.h
+
+1512416160 d:\test\time.h
+
+1512416226 d:\test\rand.h
+
+1512459480 source:d:\test\check.c
+	"global.h"
+
+1512464994 source:d:\test\rand.c
+	"global.h"
+
+1512458940 source:d:\test\show_ind.c
+	"global.h"
+
+1512464572 source:d:\test\time.c
+	"global.h"
+
+1512458990 source:d:\test\view_ind.c
+	"global.h"
+
+1512416394 source:g:\test\banking.c
+	"main.h"
+
+1512416250 g:\test\main.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"structure.h"
+	"close.h"
+	"clear.h"
+	"banking.h"
+	"insert.h"
+	"update.h"
+	"del.h"
+	"view.h"
+	"menu.h"
+	"login.h"
+	"delay.h"
+	"loan.h"
+	"read.h"
+	"write.h"
+	"findloc.h"
+	"strmatch.h"
+	"view_ind.h"
+	"show_ind.h"
+	"check.h"
+	"time.h"
+	"rand.h"
+
+1512416344 g:\test\structure.h
+
+1512407198 g:\test\close.h
+
+1512407322 g:\test\clear.h
+
+1512407434 g:\test\banking.h
+
+1512407552 g:\test\insert.h
+
+1512407686 g:\test\update.h
+
+1512407882 g:\test\del.h
+
+1512408016 g:\test\view.h
+
+1512408104 g:\test\menu.h
+
+1512408202 g:\test\login.h
+
+1512408336 g:\test\delay.h
+
+1512408414 g:\test\loan.h
+
+1512408508 g:\test\read.h
+
+1512408570 g:\test\write.h
+
+1512408736 g:\test\findloc.h
+
+1512410412 g:\test\strmatch.h
+
+1512415684 g:\test\view_ind.h
+
+1512415968 g:\test\show_ind.h
+
+1512416052 g:\test\check.h
+
+1512416160 g:\test\time.h
+
+1512416226 g:\test\rand.h
+
+1512447970 source:g:\test\check.c
+	"main.h"
+
+1512407312 source:g:\test\clear.c
+	"main.h"
+
+1512407294 source:g:\test\close.c
+	"main.h"
+
+1512410814 source:g:\test\delay.c
+	"main.h"
+
+1512408714 source:g:\test\findloc.c
+	"main.h"
+
+1512414838 source:g:\test\insert.c
+	"main.h"
+
+1512408396 source:g:\test\loan.c
+	"main.h"
+
+1512408188 source:g:\test\login.c
+	"main.h"
+
+1512416260 source:g:\test\main.c
+	"main.h"
+
+1512416208 source:g:\test\rand.c
+	"main.h"
+
+1512414766 source:g:\test\read.c
+	"main.h"
+
+1512416552 source:g:\test\show_ind.c
+	"main.h"
+
+1512410376 source:g:\test\strmatch.c
+	"main.h"
+
+1512416144 source:g:\test\time.c
+	"main.h"
+
+1512414890 source:g:\test\update.c
+	"main.h"
+
+1512414966 source:g:\test\view.c
+	"main.h"
+
+1512416670 source:g:\test\view_ind.c
+	"main.h"
+
+1512414794 source:g:\test\write.c
+	"main.h"
+
+1512449538 source:g:\test\del.c
+	"main.h"
+
+1512449680 source:g:\test\menu.c
+	"main.h"
+
+1512462912 d:\test\global.h
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+

@@ -1,0 +1,2 @@
+void fordelay(int j);
+
