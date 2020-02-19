@@ -1,2 +1,2 @@
 # Banking_System
-Comand promt based banking system using C.
+Command prompt based banking system using C.
